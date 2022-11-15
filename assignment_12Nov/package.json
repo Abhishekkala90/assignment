@@ -1,4 +1,21 @@
 {
+  "name": "my-first-backend-app",
+  "version": "1.0.0",
+  "description": "dummy",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Abhishekkala90/assignment.git"
+  },
+  "author": "Abhishek kala",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Abhishekkala90/assignment/issues"
+  },
+  "homepage": "https://github.com/Abhishekkala90/assignment#readme",
   "dependencies": {
     "express": "^4.18.2"
   }
